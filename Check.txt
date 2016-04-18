@@ -1,1 +1,2 @@
 print {"New file check"}
+print {"New file check error"}
