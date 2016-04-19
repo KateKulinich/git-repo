@@ -1,5 +1,6 @@
-print {"Hi@"}
-print {"Hi again@"}
-print {"Hi again for me@"}
+<<<<<<< HEAD
+print {"Hi;"}
+print {"Hi again;"}
+print {"Hi again for me;"}
 print {"Hi again for all@"}
 Print {"add something new@"}
